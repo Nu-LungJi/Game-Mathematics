@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>베지에 레일의 표식</title><desc>같은 시간 간격으로 찍은 표식 사이의 거리를 비교해 카메라 속도의 변화를 찾는다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><path d="M 100 146 Q 100 34 324 34" fill="none" stroke="#0969a2" stroke-width="4"/>
+<circle cx="100" cy="146" r="5" fill="#b14e12"/>
+<circle cx="114" cy="97" r="5" fill="#b14e12"/>
+<circle cx="156" cy="62" r="5" fill="#b14e12"/>
+<circle cx="226" cy="41" r="5" fill="#b14e12"/>
+<circle cx="324" cy="34" r="5" fill="#b14e12"/>
+<text x="66" y="168" fill="#374758">시작</text>
+<text x="335" y="39" fill="#374758">끝</text>
+<text x="312" y="115" fill="#b14e12">점 사이 시간은 동일</text>
+</g></svg>

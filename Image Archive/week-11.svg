@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>프레임 사이의 명중</title><desc>두 프레임 위치를 이은 선분이 표적을 가로지른다. 끝점만 보면 충돌을 놓친다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><rect x="271" y="26" width="5" height="114" fill="#e7b47e" stroke="#b14e12"/>
+<g fill="#536676"><rect x="24" y="100" width="44" height="12" rx="3"/><path d="M29 100 Q33 74 55 84 L61 101 Z"/><rect x="48" y="87" width="46" height="8" rx="2"/></g><line x1="105" y1="93" x2="439" y2="93" stroke="#0969a2" stroke-width="3" />
+<circle cx="105" cy="93" r="7" fill="#0969a2"/>
+<circle cx="439" cy="93" r="7" fill="#0969a2"/>
+<circle cx="274" cy="93" r="8" fill="#b14e12"/>
+<text x="62" y="124" fill="#0969a2">이전 위치</text>
+<text x="397" y="124" fill="#0969a2">프레임 끝</text>
+<text x="289" y="66" fill="#b14e12">최초 명중</text>
+<text x="225" y="162" fill="#374758">얇은 표적</text>
+</g></svg>

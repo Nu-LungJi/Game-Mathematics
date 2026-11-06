@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>상자 위의 최근접점</title><desc>구 중심의 각 좌표를 상자 범위로 제한하면 면이나 모서리 위의 최근접점을 얻는다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><rect x="108" y="54" width="115" height="96" fill="#dfebe6" stroke="#9baebc"/>
+<circle cx="223" cy="97" r="5" fill="#247758"/>
+<circle cx="223" cy="54" r="5" fill="#247758"/>
+<circle cx="287" cy="97" r="5" fill="#0969a2"/>
+<circle cx="287" cy="23" r="5" fill="#b14e12"/>
+<line x1="223" y1="97" x2="287" y2="97" stroke="#0969a2" stroke-width="3" />
+<line x1="223" y1="54" x2="287" y2="23" stroke="#b14e12" stroke-width="3" />
+<text x="312" y="102" fill="#0969a2">면 방향의 최근접점</text>
+<text x="312" y="32" fill="#b14e12">모서리 쪽 최근접점</text>
+</g></svg>

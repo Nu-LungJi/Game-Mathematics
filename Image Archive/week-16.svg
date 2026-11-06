@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>최단 거리와 최소 비용</title><desc>늪의 진입 비용이 5일 때 두 걸음 직행보다 네 걸음 우회가 저렴하다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><rect x="52" y="24" width="68" height="63" fill="#e9eff2" stroke="#9baebc"/>
+<rect x="120" y="24" width="68" height="63" fill="#ebd5aa" stroke="#9baebc"/>
+<rect x="188" y="24" width="68" height="63" fill="#e9eff2" stroke="#9baebc"/>
+<rect x="52" y="87" width="68" height="63" fill="#e9eff2" stroke="#9baebc"/>
+<rect x="120" y="87" width="68" height="63" fill="#e9eff2" stroke="#9baebc"/>
+<rect x="188" y="87" width="68" height="63" fill="#e9eff2" stroke="#9baebc"/>
+<path d="M 86 55 H 222" fill="none" stroke="#b14e12" stroke-width="4"/>
+<path d="M 86 55 V 119 H 222 V 55" fill="none" stroke="#0969a2" stroke-width="4"/>
+<circle cx="86" cy="55" r="5" fill="#247758"/>
+<circle cx="222" cy="55" r="5" fill="#247758"/>
+<text x="129" y="44" fill="#374758">늪</text>
+<text x="307" y="58" fill="#b14e12">직행   2걸음 · 비용 6</text>
+<text x="307" y="115" fill="#0969a2">우회   4걸음 · 비용 4</text>
+</g></svg>

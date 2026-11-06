@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>두 자세 사이의 회전</title><desc>SLERP로 90° 회전의 절반을 보간하면 정면도 45° 회전한다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><line x1="141" y1="142" x2="141" y2="38" stroke="#0969a2" stroke-width="3" />
+<line x1="141" y1="142" x2="215" y2="68" stroke="#247758" stroke-width="3" />
+<line x1="141" y1="142" x2="245" y2="142" stroke="#b14e12" stroke-width="3" />
+<path d="M 141 65 A 77 77 0 0 1 218 142" fill="none" stroke="#9baebc" stroke-width="4"/>
+<text x="109" y="28" fill="#0969a2">시작</text>
+<text x="225" y="67" fill="#247758">중간 45°</text>
+<text x="255" y="148" fill="#b14e12">목표 90°</text>
+<circle cx="141" cy="65" r="5" fill="#247758"><animateTransform attributeName="transform" type="rotate" values="0 141 142;90 141 142;90 141 142" dur="3s" repeatCount="indefinite"/></circle></g></svg>

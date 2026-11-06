@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>같은 목표에 닿는 두 자세</title><desc>손과 어깨의 위치를 고정해도 팔꿈치의 굽힘 방향은 두 가지다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><path d="M 157 138 L 255 138 L 255 40" fill="none" stroke="#0969a2" stroke-width="4"/>
+<path d="M 157 138 L 157 40 L 255 40" fill="none" stroke="#b14e12" stroke-width="4"/>
+<circle cx="157" cy="138" r="5" fill="#374758"/>
+<circle cx="255" cy="40" r="5" fill="#247758"/>
+<text x="100" y="162" fill="#374758">어깨</text>
+<text x="267" y="43" fill="#247758">같은 목표</text>
+<text x="268" y="139" fill="#0969a2">팔꿈치 A</text>
+<text x="72" y="40" fill="#b14e12">팔꿈치 B</text>
+</g></svg>

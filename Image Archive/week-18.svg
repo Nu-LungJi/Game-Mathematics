@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>생성한 섬에서 경로 찾기</title><desc>같은 시드로 섬을 재생성하고 두 육지 칸 사이를 걸어서 이동할 수 있는지 확인한다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><rect x="56" y="20" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="82" y="20" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="108" y="20" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="134" y="20" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="160" y="20" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="186" y="20" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="212" y="20" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="238" y="20" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="56" y="46" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="82" y="46" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="108" y="46" width="26" height="26" fill="#b8d6aa" stroke="#f5f8fa"/>
+<rect x="134" y="46" width="26" height="26" fill="#b8d6aa" stroke="#f5f8fa"/>
+<rect x="160" y="46" width="26" height="26" fill="#b8d6aa" stroke="#f5f8fa"/>
+<rect x="186" y="46" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="212" y="46" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="238" y="46" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="56" y="72" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="82" y="72" width="26" height="26" fill="#b8d6aa" stroke="#f5f8fa"/>
+<rect x="108" y="72" width="26" height="26" fill="#b8d6aa" stroke="#f5f8fa"/>
+<rect x="134" y="72" width="26" height="26" fill="#b8d6aa" stroke="#f5f8fa"/>
+<rect x="160" y="72" width="26" height="26" fill="#b8d6aa" stroke="#f5f8fa"/>
+<rect x="186" y="72" width="26" height="26" fill="#b8d6aa" stroke="#f5f8fa"/>
+<rect x="212" y="72" width="26" height="26" fill="#b8d6aa" stroke="#f5f8fa"/>
+<rect x="238" y="72" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="56" y="98" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="82" y="98" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="108" y="98" width="26" height="26" fill="#b8d6aa" stroke="#f5f8fa"/>
+<rect x="134" y="98" width="26" height="26" fill="#b8d6aa" stroke="#f5f8fa"/>
+<rect x="160" y="98" width="26" height="26" fill="#b8d6aa" stroke="#f5f8fa"/>
+<rect x="186" y="98" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="212" y="98" width="26" height="26" fill="#b8d6aa" stroke="#f5f8fa"/>
+<rect x="238" y="98" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="56" y="124" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="82" y="124" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="108" y="124" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="134" y="124" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="160" y="124" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="186" y="124" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="212" y="124" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<rect x="238" y="124" width="26" height="26" fill="#b8dbe9" stroke="#f5f8fa"/>
+<path d="M 95 85 H 225 V 111" fill="none" stroke="#247758" stroke-width="4"/>
+<circle cx="95" cy="85" r="5" fill="#247758"/>
+<circle cx="225" cy="111" r="5" fill="#247758"/>
+<text x="301" y="70" fill="#247758">육지 위 경로</text>
+<text x="301" y="106" fill="#374758">바다 칸은 통과 불가</text>
+</g></svg>

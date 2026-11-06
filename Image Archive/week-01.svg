@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>한 걸음과 목표까지의 거리</title><desc>같은 방향으로 가더라도 한 프레임의 이동량은 속력과 시간으로 정해진다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><line x1="60" y1="137" x2="185" y2="37" stroke="#9baebc" stroke-width="3" />
+<line x1="60" y1="137" x2="85" y2="117" stroke="#0969a2" stroke-width="3" />
+<circle cx="60" cy="137" r="5" fill="#0969a2"/>
+<circle cx="85" cy="117" r="5" fill="#247758"/>
+<circle cx="185" cy="37" r="5" fill="#0969a2"/>
+<text x="46" y="161" fill="#374758">A</text>
+<text x="198" y="39" fill="#374758">B</text>
+<text x="109" y="120" fill="#247758">1 m 이동</text>
+<text x="333" y="70" fill="#374758">목표까지 5 m</text>
+<text x="333" y="103" fill="#247758">첫걸음은 1 m</text>
+</g></svg>

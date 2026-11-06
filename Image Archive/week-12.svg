@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>포물선과 이산 적분</title><desc>속도를 먼저 갱신하는 적분에서는 같은 시각의 높이가 이론값보다 낮아진다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><line x1="90" y1="132" x2="454" y2="132" stroke="#9baebc" stroke-width="3" />
+<path d="M 90 132 Q 250 -48 410 132" fill="none" stroke="#0969a2" stroke-width="4"/>
+<path d="M 90 132 L 122 102 L 154 80 L 186 65 L 218 58 L 250 58 L 282 66 L 314 81 L 346 103 L 378 133 L 410 169" fill="none" stroke="#b14e12" stroke-width="4"/>
+<text x="349" y="37" fill="#0969a2">이론 궤적</text>
+<text x="350" y="66" fill="#b14e12">이산 적분</text>
+</g></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>직선과 선분의 최근접점</title><desc>직선에 내린 발이 선분 밖이면 가까운 끝점 B를 선택한다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><line x1="68" y1="118" x2="410" y2="118" stroke="#9baebc" stroke-width="3" stroke-dasharray="6 5"/>
+<line x1="105" y1="118" x2="298" y2="118" stroke="#0969a2" stroke-width="3" />
+<circle cx="105" cy="118" r="5" fill="#0969a2"/>
+<circle cx="298" cy="118" r="5" fill="#0969a2"/>
+<circle cx="394" cy="53" r="5" fill="#b14e12"/>
+<line x1="394" y1="53" x2="394" y2="118" stroke="#9baebc" stroke-width="3" stroke-dasharray="6 5"/>
+<line x1="394" y1="53" x2="298" y2="118" stroke="#b14e12" stroke-width="3" />
+<text x="83" y="148" fill="#374758">A</text>
+<text x="286" y="148" fill="#374758">B</text>
+<text x="407" y="53" fill="#374758">Q</text>
+<text x="401" y="143" fill="#374758">직선 투영점</text>
+</g></svg>

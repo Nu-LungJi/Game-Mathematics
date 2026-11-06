@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>0도를 지나는 회전</title><desc>350°에서 10°로 갈 때 반시계 방향으로 20°만 돌면 된다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><line x1="90" y1="90" x2="296" y2="90" stroke="#9baebc" stroke-width="3" stroke-dasharray="6 5"/>
+<line x1="90" y1="90" x2="280" y2="124" stroke="#0969a2" stroke-width="3" />
+<line x1="90" y1="90" x2="280" y2="56" stroke="#b14e12" stroke-width="3" />
+<path d="M 196 109 Q 204 90 196 71" fill="none" stroke="#247758" stroke-width="4"/>
+<text x="290" y="132" fill="#0969a2">350°</text>
+<text x="290" y="56" fill="#b14e12">10°</text>
+<text x="359" y="95" fill="#247758">짧은 회전 +20°</text>
+</g></svg>

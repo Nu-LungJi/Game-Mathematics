@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>높이 차와 최단거리</title><desc>점 (2,3,0)에서 경사면까지 내린 두 선 중 법선과 나란한 선이 더 짧다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><line x1="80" y1="162" x2="229" y2="13" stroke="#374758" stroke-width="3" />
+<circle cx="145" cy="42" r="5" fill="#0969a2"/>
+<line x1="145" y1="42" x2="145" y2="97" stroke="#0969a2" stroke-width="3" />
+<line x1="145" y1="42" x2="172.5" y2="69.5" stroke="#b14e12" stroke-width="3" />
+<text x="88" y="40" fill="#374758">P</text>
+<text x="265" y="74" fill="#0969a2">수직 높이 차   1</text>
+<text x="265" y="111" fill="#b14e12">평면까지 최단거리   1/√2</text>
+<text x="59" y="148" fill="#374758">y=x</text>
+</g></svg>

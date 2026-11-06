@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>시야 경계에 걸친 구</title><desc>구 전체가 바깥인 경우만 제외한다. 일부라도 보이면 그린다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><rect x="77" y="28" width="199" height="119" fill="#e0eee8" stroke="#9baebc"/>
+<text x="105" y="59" fill="#374758">보이는 영역</text>
+<circle cx="282" cy="94" r="30" fill="none" stroke="#0969a2" stroke-width="3"/><circle cx="282" cy="94" r="5" fill="#0969a2"/>
+<circle cx="343" cy="94" r="30" fill="none" stroke="#b14e12" stroke-width="3"/><circle cx="343" cy="94" r="5" fill="#b14e12"/>
+<text x="219" y="168" fill="#0969a2">경계에 걸침</text>
+<text x="385" y="98" fill="#b14e12">완전히 밖</text>
+</g></svg>

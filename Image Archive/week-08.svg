@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img"><title>깊이와 화면 위치</title><desc>같은 옆 변위를 가진 두 점 중 먼 점은 화면 중앙에 더 가깝게 투영된다.</desc><rect width="560" height="180" rx="12" fill="#f5f8fa"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-size="16" font-weight="550"><line x1="90" y1="110" x2="456" y2="110" stroke="#9baebc" stroke-width="3" stroke-dasharray="6 5"/>
+<line x1="90" y1="110" x2="275" y2="48" stroke="#0969a2" stroke-width="3" />
+<line x1="90" y1="110" x2="452" y2="48" stroke="#b14e12" stroke-width="3" />
+<line x1="189" y1="26" x2="189" y2="146" stroke="#374758" stroke-width="3" />
+<circle cx="189" cy="77" r="5" fill="#0969a2"/>
+<circle cx="189" cy="93" r="5" fill="#b14e12"/>
+<circle cx="275" cy="48" r="5" fill="#0969a2"/>
+<circle cx="452" cy="48" r="5" fill="#b14e12"/>
+<text x="58" y="142" fill="#374758">카메라</text>
+<text x="163" y="165" fill="#374758">화면</text>
+<text x="260" y="33" fill="#0969a2">가까운 점</text>
+<text x="423" y="33" fill="#b14e12">먼 점</text>
+</g></svg>
