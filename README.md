@@ -3,7 +3,7 @@
 **18주 · 주 6일 · 하루 45~60분**  
 손으로 예상한 좌표를 코드로 검산하고, 그 결과를 게임 장면으로 옮기는 과정이다. 그림은 앞으로 만들 기능의 **예상 결과 도식**이다.
 
-| [1단계 · 공간기하](./01-space-geometry.md) | [2단계 · 충돌과 물리](./02-transforms-physics.md) | [3단계 · 분야별 응용](./03-applications.md) |
+| [1단계 · 공간기하](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Beginner) | [2단계 · 충돌과 물리](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Intermediate) | [3단계 · 분야별 응용](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/advanced) |
 | :--- | :--- | :--- |
 | ![클릭 광선과 경사면이 만나는 표식](./Image%20Archive/week-06.svg) | ![포탑에서 발사된 탄환과 프레임 사이의 명중점](./Image%20Archive/week-11.svg) | ![늪을 통과하는 경로와 우회하는 경로](./Image%20Archive/week-16.svg) |
 | **어디를 클릭했을까?** 광선과 경사면의 교점에 표식을 찍는다. | **총알이 어디에 맞았을까?** 포탑으로 표식을 겨냥하고 두 프레임 사이의 최초 명중점을 찾는다. | **어느 길이 더 빠를까?** 늪을 가로지르는 길과 우회로의 비용을 비교한다. |
