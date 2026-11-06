@@ -6,7 +6,7 @@
 
 **게임 수학 - 3단계 (게임 수학 응용)**
 
-[← 전체 과정, 결과물 미리보기]([./README.md](https://github.com/Nu-LungJi/Game-Mathematics/tree/Master))
+[← 전체 과정, 결과물 미리보기](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Master)
 
 ## 주차별 목차
 
