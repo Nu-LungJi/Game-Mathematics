@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250" role="img" aria-labelledby="t d"><title id="t">한 프레임에 지나간 세 게이트</title><desc id="d">차가 오른쪽으로 이동해 A, B, 결승선을 차례로 지나며 결승 시각은 프레임 끝보다 0.05초 빠르다.</desc>
+<defs><marker id="23659a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#23659a"/></marker><marker id="08735a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#08735a"/></marker><marker id="a94120" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#a94120"/></marker><marker id="213c50" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#213c50"/></marker></defs>
+<rect width="760" height="250" rx="12" fill="#f7faf9"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-weight="550"><text x="24" y="30" font-size="17" fill="#213c50" font-weight="700">한 프레임에 지나간 세 게이트</text><path d="M24 44 H736" stroke="#ccdadc"/><rect x="62" y="97" width="629" height="76" fill="#dfe7e8" stroke="#dfe7e8"/>
+<path d="M67 135 L688 135" fill="none" stroke="#596c78" stroke-width="3" stroke-dasharray="6 5" />
+<path d="M190 97 L190 173" fill="none" stroke="#08735a" stroke-width="5"  />
+<text x="190" y="80" fill="#08735a" font-size="17" text-anchor="middle">A</text>
+<text x="190" y="199" fill="#08735a" font-size="16" text-anchor="middle">4.10초</text>
+<path d="M438 97 L438 173" fill="none" stroke="#08735a" stroke-width="5"  />
+<text x="438" y="80" fill="#08735a" font-size="17" text-anchor="middle">B</text>
+<text x="438" y="199" fill="#08735a" font-size="16" text-anchor="middle">4.30초</text>
+<path d="M624 97 L624 173" fill="none" stroke="#08735a" stroke-width="5"  />
+<text x="624" y="80" fill="#08735a" font-size="17" text-anchor="middle">결승선</text>
+<text x="624" y="199" fill="#08735a" font-size="16" text-anchor="middle">4.45초</text>
+<path d="M67 145 L687 145" fill="none" stroke="#23659a" stroke-width="3"  marker-end="url(#23659a)"/>
+<text x="36" y="231" fill="#213c50" font-size="17" text-anchor="start">시작 4.00초</text>
+<text x="627" y="231" fill="#213c50" font-size="17" text-anchor="start">끝 4.50초</text>
+</g></svg>

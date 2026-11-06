@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250" role="img" aria-labelledby="t d"><title id="t">벽에 닿은 순간과 프레임 끝 위치</title><desc id="d">대각선 대시는 중심 x=3.5에서 벽에 닿고 수직 성분을 따라 (3.5,4)에서 끝난다.</desc>
+<defs><marker id="23659a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#23659a"/></marker><marker id="08735a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#08735a"/></marker><marker id="a94120" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#a94120"/></marker><marker id="213c50" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#213c50"/></marker></defs>
+<rect width="760" height="250" rx="12" fill="#f7faf9"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-weight="550"><text x="24" y="30" font-size="17" fill="#213c50" font-weight="700">벽에 닿은 순간과 프레임 끝 위치</text><path d="M24 44 H736" stroke="#ccdadc"/><rect x="260" y="59" width="12" height="154" fill="#becbcf" stroke="#becbcf"/>
+<path d="M100 214 L500 54" fill="none" stroke="#596c78" stroke-width="3" stroke-dasharray="6 5" />
+<path d="M100 214 L240 158" fill="none" stroke="#23659a" stroke-width="4"  marker-end="url(#23659a)"/>
+<circle cx="240" cy="158" r="20" fill="none" stroke="#08735a" stroke-width="2"/>
+<path d="M240 155 L240 64" fill="none" stroke="#08735a" stroke-width="4"  marker-end="url(#08735a)"/>
+<circle cx="240" cy="54" r="5" fill="#08735a" stroke="#08735a" stroke-width="2"/>
+<text x="74" y="236" fill="#213c50" font-size="17" text-anchor="start">시작</text>
+<text x="280" y="187" fill="#08735a" font-size="17" text-anchor="start">첫 접촉 (3.5, 1.4)</text>
+<text x="255" y="78" fill="#213c50" font-size="17" text-anchor="start">벽 x=4</text>
+<text x="369" y="142" fill="#596c78" font-size="17" text-anchor="start">점선 · 원래 대시 방향</text>
+<text x="480" y="212" fill="#08735a" font-size="17" text-anchor="start">벽을 따라 남은 거리 이동</text>
+</g></svg>

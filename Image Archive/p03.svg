@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250" role="img" aria-labelledby="t d"><title id="t">같은 적의 두 기록과 발사 순간</title><desc id="d">0.90초와 1.00초의 적은 사선을 벗어나지만 0.95초로 복원하면 최초 명중 x는 4.75다.</desc>
+<defs><marker id="23659a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#23659a"/></marker><marker id="08735a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#08735a"/></marker><marker id="a94120" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#a94120"/></marker><marker id="213c50" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#213c50"/></marker></defs>
+<rect width="760" height="250" rx="12" fill="#f7faf9"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-weight="550"><text x="24" y="30" font-size="17" fill="#213c50" font-weight="700">같은 적의 두 기록과 발사 순간</text><path d="M24 44 H736" stroke="#ccdadc"/><path d="M329 63 L329 202" fill="none" stroke="#596c78" stroke-width="3" stroke-dasharray="6 5" />
+<circle cx="329" cy="77" r="14" fill="none" stroke="#596c78" stroke-width="2"/>
+<text x="359" y="83" fill="#596c78" font-size="17" text-anchor="start">1.00초 기록 · y=1</text>
+<circle cx="329" cy="133" r="14" fill="none" stroke="#08735a" stroke-width="2"/>
+<text x="359" y="139" fill="#08735a" font-size="17" text-anchor="start">0.95초 발사 · y=0</text>
+<circle cx="329" cy="189" r="14" fill="none" stroke="#596c78" stroke-width="2"/>
+<text x="359" y="195" fill="#596c78" font-size="17" text-anchor="start">0.90초 기록 · y=−1</text>
+<path d="M49 133 L315 133" fill="none" stroke="#23659a" stroke-width="4"  marker-end="url(#23659a)"/>
+<circle cx="315" cy="133" r="4" fill="#a94120" stroke="#a94120" stroke-width="2"/>
+<text x="45" y="164" fill="#213c50" font-size="17" text-anchor="start">총구 (0,0)</text>
+<text x="48" y="107" fill="#23659a" font-size="17" text-anchor="start">복원된 표면에 명중</text>
+<text x="493" y="228" fill="#213c50" font-size="17" text-anchor="start">1.05초 수신 → 0.95초 판정</text>
+</g></svg>

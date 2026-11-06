@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250" role="img" aria-labelledby="t d"><title id="t">갑판에 붙어 있을 때와 이탈하는 순간</title><desc id="d">갑판이 90도 회전한 순간, 접점의 회전 속도는 원점 이동 속도와 반대 방향이다.</desc>
+<defs><marker id="23659a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#23659a"/></marker><marker id="08735a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#08735a"/></marker><marker id="a94120" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#a94120"/></marker><marker id="213c50" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#213c50"/></marker></defs>
+<rect width="760" height="250" rx="12" fill="#f7faf9"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-weight="550"><text x="24" y="30" font-size="17" fill="#213c50" font-weight="700">갑판에 붙어 있을 때와 이탈하는 순간</text><path d="M24 44 H736" stroke="#ccdadc"/><rect x="57" y="134" width="170" height="48" fill="#dce9e9" stroke="#ccdadc"/>
+<rect x="303" y="68" width="48" height="144" fill="#dce9e9" stroke="#ccdadc"/>
+<path d="M142 158 L202 158" fill="none" stroke="#23659a" stroke-width="3"  />
+<circle cx="142" cy="158" r="4" fill="#213c50" stroke="#213c50" stroke-width="2"/>
+<circle cx="202" cy="158" r="7" fill="#08735a" stroke="#08735a" stroke-width="2"/>
+<path d="M327 158 L327 98" fill="none" stroke="#23659a" stroke-width="3"  />
+<circle cx="327" cy="158" r="4" fill="#213c50" stroke="#213c50" stroke-width="2"/>
+<circle cx="327" cy="98" r="7" fill="#08735a" stroke="#08735a" stroke-width="2"/>
+<text x="55" y="220" fill="#213c50" font-size="17" text-anchor="start">0초 · 로컬 접점 (1,0)</text>
+<text x="253" y="237" fill="#213c50" font-size="17" text-anchor="start">1초 · 월드 접점 (2,1)</text>
+<path d="M459 88 L638 88" fill="none" stroke="#23659a" stroke-width="4"  marker-end="url(#23659a)"/>
+<text x="457" y="75" fill="#23659a" font-size="17" text-anchor="start">원점 속도  +2</text>
+<path d="M598 145 L458 145" fill="none" stroke="#a94120" stroke-width="4"  marker-end="url(#a94120)"/>
+<text x="457" y="131" fill="#a94120" font-size="17" text-anchor="start">접선 속도  −π/2</text>
+<path d="M459 201 L498 201" fill="none" stroke="#08735a" stroke-width="4"  marker-end="url(#08735a)"/>
+<text x="457" y="187" fill="#08735a" font-size="17" text-anchor="start">이탈 속도  +0.429 m/s</text>
+</g></svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250" role="img" aria-labelledby="t d"><title id="t">원점만 바뀐 두 개의 로컬 눈금</title><desc id="d">이전과 현재 위치의 숫자는 각각 10 작아지지만 두 프레임 모두 전역 궤적은 같다.</desc>
+<defs><marker id="23659a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#23659a"/></marker><marker id="08735a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#08735a"/></marker><marker id="a94120" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#a94120"/></marker><marker id="213c50" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#213c50"/></marker></defs>
+<rect width="760" height="250" rx="12" fill="#f7faf9"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-weight="550"><text x="24" y="30" font-size="17" fill="#213c50" font-weight="700">원점만 바뀐 두 개의 로컬 눈금</text><path d="M24 44 H736" stroke="#ccdadc"/><text x="38" y="106" fill="#213c50" font-size="17" text-anchor="start">변경 전</text>
+<path d="M186 100 L643 100" fill="none" stroke="#ccdadc" stroke-width="3"  />
+<circle cx="242" cy="100" r="5" fill="#23659a" stroke="#23659a" stroke-width="2"/>
+<text x="242" y="87" fill="#23659a" font-size="17" text-anchor="middle">9.75</text>
+<circle cx="408" cy="100" r="5" fill="#08735a" stroke="#08735a" stroke-width="2"/>
+<text x="408" y="87" fill="#08735a" font-size="17" text-anchor="middle">10.00</text>
+<circle cx="574" cy="100" r="5" fill="#23659a" stroke="#23659a" stroke-width="2"/>
+<text x="574" y="87" fill="#23659a" font-size="17" text-anchor="middle">10.25</text>
+<text x="38" y="193" fill="#213c50" font-size="17" text-anchor="start">변경 후</text>
+<path d="M186 187 L643 187" fill="none" stroke="#ccdadc" stroke-width="3"  />
+<circle cx="242" cy="187" r="5" fill="#23659a" stroke="#23659a" stroke-width="2"/>
+<text x="242" y="174" fill="#23659a" font-size="17" text-anchor="middle">−0.25</text>
+<circle cx="408" cy="187" r="5" fill="#08735a" stroke="#08735a" stroke-width="2"/>
+<text x="408" y="174" fill="#08735a" font-size="17" text-anchor="middle">0.00</text>
+<circle cx="574" cy="187" r="5" fill="#23659a" stroke="#23659a" stroke-width="2"/>
+<text x="574" y="174" fill="#23659a" font-size="17" text-anchor="middle">0.25</text>
+<path d="M408 111 L408 152" fill="none" stroke="#08735a" stroke-width="3" stroke-dasharray="6 5" />
+<text x="37" y="230" fill="#596c78" font-size="17" text-anchor="start">같은 전역 위치</text>
+<text x="205" y="230" fill="#213c50" font-size="17" text-anchor="start">이전 프레임</text>
+<text x="347" y="230" fill="#08735a" font-size="17" text-anchor="start">보간 · 1,000,010</text>
+<text x="528" y="230" fill="#213c50" font-size="17" text-anchor="start">현재 프레임</text>
+</g></svg>

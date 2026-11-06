@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250" role="img" aria-labelledby="t d"><title id="t">중앙선은 통과하지만 카메라는 멈춘다</title><desc id="d">카메라 반지름 0.5와 문설주 반지름 0.3을 더한 원의 경계에서 중심 이동이 제한된다.</desc>
+<defs><marker id="23659a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#23659a"/></marker><marker id="08735a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#08735a"/></marker><marker id="a94120" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#a94120"/></marker><marker id="213c50" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#213c50"/></marker></defs>
+<rect width="760" height="250" rx="12" fill="#f7faf9"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-weight="550"><text x="24" y="30" font-size="17" fill="#213c50" font-weight="700">중앙선은 통과하지만 카메라는 멈춘다</text><path d="M24 44 H736" stroke="#ccdadc"/><circle cx="400" cy="115" r="72" fill="none" stroke="#596c78" stroke-width="2"/>
+<circle cx="400" cy="115" r="27" fill="#f1d9c9" stroke="#a94120" stroke-width="2"/>
+<path d="M40 151 L580 151" fill="none" stroke="#23659a" stroke-width="3" stroke-dasharray="6 5" />
+<circle cx="338" cy="151" r="45" fill="none" stroke="#08735a" stroke-width="2"/>
+<circle cx="338" cy="151" r="4" fill="#08735a" stroke="#08735a" stroke-width="2"/>
+<circle cx="40" cy="151" r="5" fill="#23659a" stroke="#23659a" stroke-width="2"/>
+<text x="35" y="191" fill="#213c50" font-size="17" text-anchor="start">피벗</text>
+<text x="424" y="93" fill="#a94120" font-size="17" text-anchor="start">문설주 r=0.3</text>
+<text x="220" y="226" fill="#08735a" font-size="17" text-anchor="start">접촉한 카메라 중심  x≈3.31</text>
+<text x="534" y="185" fill="#23659a" font-size="17" text-anchor="start">희망 중심 x=6</text>
+<text x="505" y="65" fill="#596c78" font-size="17" text-anchor="start">바깥 원 · 합산 반경 0.8</text>
+</g></svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250" role="img" aria-labelledby="t d"><title id="t">지도의 경로와 실제 완료 순서</title><desc id="d">닫힌 문 D–G 대신 H를 거치는 경로를 채택하고 뒤늦게 도착한 예전 요청 R1을 폐기한다.</desc>
+<defs><marker id="23659a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#23659a"/></marker><marker id="08735a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#08735a"/></marker><marker id="a94120" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#a94120"/></marker><marker id="213c50" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#213c50"/></marker></defs>
+<rect width="760" height="250" rx="12" fill="#f7faf9"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-weight="550"><text x="24" y="30" font-size="17" fill="#213c50" font-weight="700">지도의 경로와 실제 완료 순서</text><path d="M24 44 H736" stroke="#ccdadc"/><path d="M68 130 L182 80" fill="none" stroke="#596c78" stroke-width="4" stroke-dasharray="6 5" />
+<path d="M182 80 L304 130" fill="none" stroke="#596c78" stroke-width="4" stroke-dasharray="6 5" />
+<path d="M68 130 L182 184" fill="none" stroke="#08735a" stroke-width="4"  />
+<path d="M182 184 L304 130" fill="none" stroke="#08735a" stroke-width="4"  />
+<circle cx="68" cy="130" r="15" fill="#f7faf9" stroke="#213c50" stroke-width="2"/>
+<text x="68" y="136" fill="#213c50" font-size="16" text-anchor="middle">S</text>
+<circle cx="182" cy="80" r="15" fill="#f7faf9" stroke="#213c50" stroke-width="2"/>
+<text x="182" y="86" fill="#213c50" font-size="16" text-anchor="middle">D</text>
+<circle cx="182" cy="184" r="15" fill="#f7faf9" stroke="#213c50" stroke-width="2"/>
+<text x="182" y="190" fill="#213c50" font-size="16" text-anchor="middle">H</text>
+<circle cx="304" cy="130" r="15" fill="#f7faf9" stroke="#213c50" stroke-width="2"/>
+<text x="304" y="136" fill="#213c50" font-size="16" text-anchor="middle">G</text>
+<path d="M235 92 L249 112" fill="none" stroke="#a94120" stroke-width="3"  />
+<path d="M249 92 L235 112" fill="none" stroke="#a94120" stroke-width="3"  />
+<text x="78" y="225" fill="#08735a" font-size="17" text-anchor="start">문 폐쇄 후 · 아래쪽 우회로</text>
+<path d="M399 141 L699 141" fill="none" stroke="#213c50" stroke-width="2"  marker-end="url(#213c50)"/>
+<circle cx="426" cy="141" r="5" fill="#596c78" stroke="#596c78" stroke-width="2"/>
+<text x="426" y="107" fill="#596c78" font-size="16" text-anchor="middle">문 닫힘</text>
+<circle cx="542" cy="141" r="5" fill="#08735a" stroke="#08735a" stroke-width="2"/>
+<text x="542" y="182" fill="#08735a" font-size="16" text-anchor="middle">R2 채택</text>
+<circle cx="654" cy="141" r="5" fill="#a94120" stroke="#a94120" stroke-width="2"/>
+<text x="654" y="107" fill="#a94120" font-size="16" text-anchor="middle">R1 폐기</text>
+</g></svg>

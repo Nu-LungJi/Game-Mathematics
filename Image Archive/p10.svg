@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250" role="img" aria-labelledby="t d"><title id="t">가까운 평행 차량과 먼 접근 차량</title><desc id="d">내 차와 A의 간격은 일정하다. 여러 칸 떨어진 B는 마주 오며 1.75초 뒤 처음 접촉한다.</desc>
+<defs><marker id="23659a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#23659a"/></marker><marker id="08735a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#08735a"/></marker><marker id="a94120" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#a94120"/></marker><marker id="213c50" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#213c50"/></marker></defs>
+<rect width="760" height="250" rx="12" fill="#f7faf9"/><g font-family="system-ui, 'Malgun Gothic', sans-serif" font-weight="550"><text x="24" y="30" font-size="17" fill="#213c50" font-weight="700">가까운 평행 차량과 먼 접근 차량</text><path d="M24 44 H736" stroke="#ccdadc"/><path d="M82 53 L82 192" fill="none" stroke="#ccdadc" stroke-width="1" stroke-dasharray="6 5" />
+<path d="M170 53 L170 192" fill="none" stroke="#ccdadc" stroke-width="1" stroke-dasharray="6 5" />
+<path d="M258 53 L258 192" fill="none" stroke="#ccdadc" stroke-width="1" stroke-dasharray="6 5" />
+<path d="M346 53 L346 192" fill="none" stroke="#ccdadc" stroke-width="1" stroke-dasharray="6 5" />
+<path d="M434 53 L434 192" fill="none" stroke="#ccdadc" stroke-width="1" stroke-dasharray="6 5" />
+<path d="M522 53 L522 192" fill="none" stroke="#ccdadc" stroke-width="1" stroke-dasharray="6 5" />
+<path d="M610 53 L610 192" fill="none" stroke="#ccdadc" stroke-width="1" stroke-dasharray="6 5" />
+<path d="M82 82 L650 82" fill="none" stroke="#ccdadc" stroke-width="1" stroke-dasharray="6 5" />
+<path d="M82 170 L650 170" fill="none" stroke="#ccdadc" stroke-width="1" stroke-dasharray="6 5" />
+<circle cx="138" cy="82" r="15" fill="none" stroke="#596c78" stroke-width="2"/>
+<path d="M158 82 L220 82" fill="none" stroke="#23659a" stroke-width="3"  marker-end="url(#23659a)"/>
+<text x="239" y="88" fill="#596c78" font-size="17" text-anchor="start">A · 내 차와 같은 속도</text>
+<circle cx="138" cy="170" r="15" fill="none" stroke="#23659a" stroke-width="2"/>
+<path d="M158 170 L238 170" fill="none" stroke="#23659a" stroke-width="3"  marker-end="url(#23659a)"/>
+<circle cx="490" cy="170" r="15" fill="none" stroke="#a94120" stroke-width="2"/>
+<path d="M468 170 L388 170" fill="none" stroke="#a94120" stroke-width="3"  marker-end="url(#a94120)"/>
+<text x="94" y="214" fill="#23659a" font-size="17" text-anchor="start">내 차  +2 m/s</text>
+<text x="447" y="214" fill="#a94120" font-size="17" text-anchor="start">B  −2 m/s</text>
+<text x="463" y="71" fill="#596c78" font-size="17" text-anchor="start">격자 간격 2m</text>
+</g></svg>
