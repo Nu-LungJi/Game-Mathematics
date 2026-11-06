@@ -12,12 +12,12 @@
 
 | 공간기하 · 1~6주 | 변환과 물리 · 7~12주 | 분야별 응용 · 13~18주 |
 | --- | --- | --- |
-| [1주 · 벡터와 이동](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Beginner#week-1) | [7주 · 좌표계와 행렬](./02-transforms-physics.md#week-7) | [13주 · 카메라와 곡선](./03-applications.md#week-13) |
-| [2주 · 삼각함수와 각도](./01-space-geometry.md#week-2) | [8주 · 카메라와 투영](./02-transforms-physics.md#week-8) | [14주 · 두 관절 애니메이션](./03-applications.md#week-14) |
-| [3주 · 내적·외적·투영](./01-space-geometry.md#week-3) | [9주 · 3D 회전](./02-transforms-physics.md#week-9) | [15주 · 빛과 카메라 시야](./03-applications.md#week-15) |
-| [4주 · 직선·광선·선분](./01-space-geometry.md#week-4) | [10주 · 도형 충돌](./02-transforms-physics.md#week-10) | [16주 · 길 찾기](./03-applications.md#week-16) |
-| [5주 · 평면의 방정식](./01-space-geometry.md#week-5) | [11주 · 삼각형과 연속 충돌](./02-transforms-physics.md#week-11) | [17주 · 확률과 밸런스](./03-applications.md#week-17) |
-| [6주 · 광선과 평면의 교점](./01-space-geometry.md#week-6) | [12주 · 운동과 충돌 반응](./02-transforms-physics.md#week-12) | [18주 · 절차적 생성](./03-applications.md#week-18) |
+| [1주 · 벡터와 이동](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Beginner#week-1) | [7주 · 좌표계와 행렬](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Intermediate#week-7) | [13주 · 카메라와 곡선](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Advanced#week-13) |
+| [2주 · 삼각함수와 각도](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Beginner#week-2) | [8주 · 카메라와 투영](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Intermediate#week-8) | [14주 · 두 관절 애니메이션](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Advanced#week-14) |
+| [3주 · 내적·외적·투영](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Beginner#week-3) | [9주 · 3D 회전](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Intermediate#week-9) | [15주 · 빛과 카메라 시야](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Advanced#week-15) |
+| [4주 · 직선·광선·선분](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Beginner#week-4) | [10주 · 도형 충돌](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Intermediate#week-10) | [16주 · 길 찾기](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Advanced#week-16) |
+| [5주 · 평면의 방정식](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Beginner#week-5) | [11주 · 삼각형과 연속 충돌](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Intermediate#week-11) | [17주 · 확률과 밸런스](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Advanced#week-17) |
+| [6주 · 광선과 평면의 교점](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Beginner#week-6) | [12주 · 운동과 충돌 반응](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Intermediate#week-12) | [18주 · 절차적 생성](https://github.com/Nu-LungJi/Game-Mathematics-Archive/tree/Advanced#week-18) |
 
 ## 한 주 공부하는 법
 
